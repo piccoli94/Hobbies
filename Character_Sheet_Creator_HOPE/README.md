@@ -1,0 +1,1 @@
+This is an automatic character sheet creator based on player choises. It reads all classes Data inside the config folder and creates a dictionary. Then the player choose which classes and abilities he/she want to. At these point the scipt will create the completed character sheet 

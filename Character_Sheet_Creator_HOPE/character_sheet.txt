@@ -1,0 +1,35 @@
+nn
+
+Classi
+
+Docente, Incitatore
+
+Abilità Unica:
+
+★Il Docente fornisce +5% ai tiri percentuale  a tutto il party, eccetto se stesso, sulle  prove  basate su 
+caratteristiche psicologiche/mentali.
+
+★L’Incitatore fornisce +5% ai tiri percentuale a tutto il party, eccetto se stesso, sulle prove basate su 
+caratteristiche fisiche.
+
+Abilità Scelte:
+
+❖Vasta conoscenza [usi: 5]: il Docente  ottiene +10% sui tiri per investigare e persuadere.
+
+❖Condividere  sapere  [usi:  2]:  un  altro  personaggio  selezionato,  avrà  vantaggio  al  prossimo  tiro  su 
+prove basate su caratteristiche psicologiche/mentali. Se il personaggio selezionato avrebbe dovuto 
+avere svantaggio al tiro, avrà invece vantaggio.
+
+❖Tuttologo [usi: 5]: il Docente ha vantaggio sulle prove per rianimare,  riparare, suturare e calmare.
+
+❖Performance:  durante  una  scena  evento,  l’Incitatore attira tutta l’attenzione su di sé venendo 
+bersagliato da creature ed NPC nelle vicinanze.
+
+❖Incitare [usi: 3]: un altro personaggio selezionato, avrà vantaggio al prossimo tiro su prove basate su 
+caratteristiche  fisiche.  Se  il  personaggio  selezionato  avrebbe  dovuto  avere  svantaggio  al  tiro,  avrà 
+invece vantaggio.
+
+Equipaggiamento:
+
+ Accendino al plasma 
+ Sacco a pelo termico 
